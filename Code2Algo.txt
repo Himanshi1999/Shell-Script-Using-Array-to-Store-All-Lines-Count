@@ -1,0 +1,7 @@
+Algorithm:
+Code2.sh
+1. Enter file name and read it in <filename>.
+2. Store each line as an element in array <array>.
+3. Run for loop and print each line stored in array.
+4. Print the "total line count" using wc command with -l flag.
+5. Print the array length and compare it.

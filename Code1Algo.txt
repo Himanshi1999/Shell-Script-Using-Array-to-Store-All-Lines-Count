@@ -1,0 +1,13 @@
+Algorithm:
+Code1.sh
+Store_all_lines_count function()
+1. Declare a variable f which stores the calling file.
+2. Print file contents of the given file.
+3. Run while loop until read line .
+4. Stores every single line of a file in an array variable named as Line.
+5. Run for loop and print each line stored in array.
+6. Print the \total line count" using wc command with -l flag.
+7. Print the array length and compare it.
+main:
+1. Enter file name and read it in <file>.
+2. Call function store_all_lines_count for a given <file >.
